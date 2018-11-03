@@ -52,7 +52,7 @@ public class User implements Comparable<User> {
 
         List<String>  list2=Arrays.asList("aaa","bbc");
         Stream<Stream<Character>>  dddddd=list2.stream().map(User::tttt);
-        System.out.println();
+        System.out.println();//山东省DVD是
         list2.stream().flatMap(User::tttt) .forEach(System.out::print);
 
         System.out.println("-------------------------------------------------------------------------------------------");
