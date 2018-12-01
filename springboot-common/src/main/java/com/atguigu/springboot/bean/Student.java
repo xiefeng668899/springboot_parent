@@ -28,8 +28,8 @@ public class Student {
         System.out.println("大家好才是这里是****我修改的*****真的好");
         System.out.println("》》》》》》》》》》》》》》》》》》》》》。");
         System.out.println("》》》》》》》》》sdfvsavf》》》》》》》》》》》》。");
-        System.out.println("》》》》》》》》》dsfsfs》》》》》》》》》》》》。");
-        System.out.println("》》》》》》》》》dsfsfs》》》》》》》》》》》》。");
+        System.out.println("》》》》》》》》》dsfsfs》》》》》sxAXC》》》》》》》。");
+        System.out.println("》》》》》》》》》dsfsfs》》》》》》》》xsxc》》》》。");
         System.out.println("》》》》》》》》》dsfsfs》》》》》》》》》》》》。");
 
     }
