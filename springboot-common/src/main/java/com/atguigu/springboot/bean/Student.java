@@ -29,5 +29,7 @@ public class Student {
         System.out.println("冲突");
     }
 
+    private  static void method(){}
+
 }
 
