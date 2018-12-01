@@ -29,6 +29,8 @@ public class Student {
         System.out.println("》》》》》》》》》》》》》》》》》》》》》。");
         System.out.println("》》》》》》》》》sdfvsavf》》》》》》》》》》》》。");
         System.out.println("》》》》》》》》》dsfsfs》》》》》》》》》》》》。");
+        System.out.println("》》》》》》》》》dsfsfs》》》》》》》》》》》》。");
+        System.out.println("》》》》》》》》》dsfsfs》》》》》》》》》》》》。");
 
     }
 
