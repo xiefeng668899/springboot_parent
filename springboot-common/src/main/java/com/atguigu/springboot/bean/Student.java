@@ -19,6 +19,7 @@ public class Student {
 
     public static void main(String[] args) {
         System.out.println("大家好才是这里是****我修改的*****真的好");
+        System.out.println("大家好才是这里是****我修改的*****真的好");
     }
 
 }
