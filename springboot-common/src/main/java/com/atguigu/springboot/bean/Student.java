@@ -30,5 +30,7 @@ public class Student {
 
     }
 
+    private  static void method(){}
+
 }
 
