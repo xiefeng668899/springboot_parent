@@ -21,7 +21,8 @@ public class Student {
         System.out.println("大家好才是这里是****我修改的*****真的好");
         System.out.println("大家好才是这里是****我修改的*****真的好");
         System.out.println("大家好才是这里是****我修改的*****真的好");
-        System.out.println("大家好才是这里是****我修改的*****真的好");
+        System.out.println("冲突");
+        System.out.println("冲突");
     }
 
 }
